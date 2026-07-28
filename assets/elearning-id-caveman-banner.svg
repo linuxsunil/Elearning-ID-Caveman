@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">E-learning ID Caveman</title>
+  <desc id="desc">Project banner with a stone tablet, learning path and the words Say less. Teach more.</desc>
+  <rect width="1200" height="420" fill="#17221d"/>
+  <circle cx="1050" cy="72" r="210" fill="#263b31"/>
+  <path d="M0 330 C180 270 330 380 520 322 S850 274 1200 338 V420 H0Z" fill="#0e1713"/>
+  <g transform="translate(70 68)">
+    <path d="M24 18 L252 0 L300 42 L278 266 L46 288 L0 236Z" fill="#d6c8a8"/>
+    <path d="M40 40 L238 24 L270 54 L252 240 L58 258 L28 224Z" fill="#b9aa8d"/>
+    <path d="M75 92 H214" stroke="#17221d" stroke-width="16" stroke-linecap="round"/>
+    <path d="M75 138 H188" stroke="#17221d" stroke-width="16" stroke-linecap="round"/>
+    <path d="M75 184 H220" stroke="#17221d" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="224" cy="138" r="13" fill="#d87b3f"/>
+  </g>
+  <text x="430" y="135" fill="#f4efe2" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">E-learning ID Caveman</text>
+  <text x="433" y="205" fill="#d87b3f" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Say less. Teach more.</text>
+  <text x="433" y="265" fill="#c8d4cd" font-family="Arial, Helvetica, sans-serif" font-size="25">Lean AI outputs. Instructional rigour intact.</text>
+  <g transform="translate(434 308)" fill="#91b7a1">
+    <circle cx="10" cy="10" r="10"/><rect x="36" y="4" width="180" height="12" rx="6"/>
+    <circle cx="260" cy="10" r="10"/><rect x="286" y="4" width="180" height="12" rx="6"/>
+    <circle cx="510" cy="10" r="10"/><rect x="536" y="4" width="180" height="12" rx="6"/>
+  </g>
+</svg>
