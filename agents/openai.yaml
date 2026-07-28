@@ -1,0 +1,7 @@
+interface:
+  display_name: "E-learning ID Caveman"
+  short_description: "Lean, rigorous e-learning design outputs"
+  default_prompt: "Use $elearning-id-caveman to turn this content into a concise, instructionally sound e-learning deliverable."
+
+policy:
+  allow_implicit_invocation: true
